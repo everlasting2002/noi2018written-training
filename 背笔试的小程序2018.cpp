@@ -1,5 +1,5 @@
 /*
-[version 2018] by qaz
+[version 2018] Add new features by qaz
 [version 2017] check & update by YihAN_Z
 [version 2016] by xtt
 
